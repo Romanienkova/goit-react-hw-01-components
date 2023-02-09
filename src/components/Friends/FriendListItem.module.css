@@ -1,0 +1,39 @@
+.item {
+	padding: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 240px;
+	display: flex;
+	gap: 36px;
+	align-items: center;
+	border: 1px solid #747070;
+	border-radius: 5px;
+  box-shadow: 0px 2px 5px 1px #786262;
+	background-color: #ece1e1;
+}
+
+.online {
+width: 20px;
+height: 20px;
+background-color: #0ca813;
+border-radius: 50%;
+}
+
+.offline {
+width: 20px;
+height: 20px;
+background-color: #f71a1a;
+border-radius: 50%;
+}
+
+.avatar {
+padding: 10px;
+border: 1px solid #706666;
+border-radius: 50%;
+background-color: #e8bbbb;
+}
+
+.name {
+font-weight: 700;
+font-size: 16px;
+}
